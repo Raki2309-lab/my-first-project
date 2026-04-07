@@ -1,2 +1,2 @@
 # my-first-project
-README
+This is my Github practice repository
